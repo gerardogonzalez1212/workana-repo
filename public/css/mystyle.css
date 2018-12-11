@@ -1,0 +1,53 @@
+.nv{
+	background: #0099ff !important;
+	margin-bottom: : 20px;
+}
+
+h1,h2,h3,h4,h5{
+	font-family: 'Merriweather', serif;
+}
+
+small {
+	font-family: 'Crimson Text', serif;
+}
+
+p{
+	font-family: 'Noto Serif TC', serif;
+}
+
+a{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 18px !important;
+}
+
+a:hover{
+	color: #0099ff !important;
+	background: white;
+	border-radius: 10px;
+}
+
+label{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.t{
+	font-family: 'Cinzel Decorative', cursive;
+	font-size: 27px !important;
+}
+
+.bg{
+	background: #ebebe0;
+}
+
+.foo{
+	background: #0099ff !important;
+	margin-top: 20px;
+	position:fixed;
+	bottom:0px;
+	width:100%;
+}
+
+a{
+	color: white !important;
+	font-size: 15px;
+}
